@@ -2,15 +2,15 @@
 
 # 📌 Overview  
 
-The AI Mental Health Companion is an interactive chatbot powered by **LLaMA 3.2 – 1B** from Hugging Face. It provides empathetic and supportive responses to users sharing emotions such as stress, overthinking, or sadness.
-The project uses a **system prompt** to guide LLaMA’s responses.  
+The AI Mental Health Companion is an interactive chatbot powered by **LLaMA 3.2 – 1B** from Hugging Face. It provides empathetic and supportive responses to users sharing emotions such as stress, overthinking, or sadness. The project uses a **system prompt** to guide LLaMA’s responses, and **LoRA (via PEFT)** was applied for efficient fine-tuning on a small dataset.
 
 # ⚙️ Workflow 
 
 **1. Load and preprocess the Kaggle dataset (`mental_health.csv`).**  
-**2. Load the **LLaMA 3.2 – 1B** model and tokenizer using Hugging Face.**  
-**3. Define a **system prompt** to guide chatbot responses.**  
-**4. Interact with the chatbot in the notebook; LLaMA generates empathetic replies.**  
+**2. Load the LLaMA 3.2 – 1B model and tokenizer using Hugging Face.**  
+**3. Apply LoRA fine-tuning (via PEFT) to adapt the model to the dataset.**  
+**4. Define a system prompt to guide chatbot responses.**  
+**5. Interact with the chatbot in the notebook; LLaMA generates empathetic replies.**  
 
 # 📊 Dataset  
 
@@ -20,13 +20,15 @@ The project uses a **system prompt** to guide LLaMA’s responses.
 
 # 🛠 Technologies Used 
 
-**- Python**  
-**- Hugging Face Transformers (LLaMA 3.2 – 1B)**  
-**- Google Colab**  
-**- Pandas, NumPy, re**  
+- Python  
+- Hugging Face Transformers (LLaMA 3.2 – 1B)  
+- LoRA / PEFT for fine-tuning  
+- Google Colab  
+- Pandas, NumPy, re  
 
 # 🚀 Usage 
 
-**1. Open `AI_Mental_Health_Companion.ipynb` in **Google Colab**.**  
-**2. Enter your Hugging Face token when prompted.**  
-**3. Run all cells to load the model and start chatting.**
+1. Open `AI_Mental_Health_Companion.ipynb` in Google Colab.  
+2. Enter your Hugging Face token when prompted.  
+3. Run all cells to load the model, apply LoRA fine-tuning, and start chatting.
+
