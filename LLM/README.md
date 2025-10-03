@@ -8,11 +8,11 @@ This folder consists of projects built with **Large Language Models (LLMs)**, wh
 
 ## 🛠 Technologies Used:
 
-**- Python**  
-**- Hugging Face Transformers (LLaMA, Falcon, Mistral)**
-**-LoRA / PEFT for fine-tuning**
-**- Google Colab**  
-**- Pandas, NumPy**  
+- Python
+- Hugging Face Transformers (LLaMA, Falcon, Mistral)
+- LoRA / PEFT for fine-tuning
+- Google Colab
+- Pandas, NumPy 
 
 # 📂 **How to Use?**  
 
