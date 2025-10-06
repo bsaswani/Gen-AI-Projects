@@ -16,6 +16,10 @@ This repository is dedicated to projects built using **Large Language Models (LL
 
 **│   └── 📂 Generative Resume Prompt Engineering/**
 
+**├── 📂 RAG with Vector Database/**       
+
+**│   └── 📂 MediQuest RAG with Vector Database/**
+
 **└── README.md**                                                   
 
 # 📌 What's Inside?
@@ -23,7 +27,9 @@ This repository is dedicated to projects built using **Large Language Models (LL
 
 **🔹 Prompt Engineering → Context-aware design, response optimization, and persona-driven interactions.**
 
+**🔹 RAG with Vector Database → Retrieval-Augmented Generation using semantic search, embedding-based document retrieval, and context-grounded LLM responses.**
+
 # 📂 How to Use?
-**1️⃣ Navigate to the `LLM` folder.**  
+**1️⃣ Navigate to the `LLM, Prompt Engineering and Rag with Vector Database` folder.**  
 **2️⃣ Each project contains a Jupyter Notebook (`.ipynb`) and a `README.md` with dataset, explanation.**  
 **3️⃣ Run the notebook in **Google Colab** to test the project.**  
