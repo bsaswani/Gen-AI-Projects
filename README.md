@@ -10,12 +10,18 @@ This repository is dedicated to projects built using **Large Language Models (LL
 
 **├── 📂 LLM/**       
 
-**│   └── 📂 AI-Mental-Health-Companion/**                          
+**│   └── 📂 AI-Mental-Health-Companion/**
+
+**├── 📂 Prompt Engineering/**       
+
+**│   └── 📂 Generative Resume Prompt Engineering/**
 
 **└── README.md**                                                   
 
 # 📌 What's Inside?
-**🔹 LLM Projects → Conversational AI, text generation, and intelligent assistants.**  
+**🔹 LLM Projects → Conversational AI, text generation, and intelligent assistants.**
+
+**🔹 Prompt Engineering → Context-aware design, response optimization, and persona-driven interactions.**
 
 # 📂 How to Use?
 **1️⃣ Navigate to the `LLM` folder.**  
