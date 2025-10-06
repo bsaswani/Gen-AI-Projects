@@ -31,6 +31,6 @@ The system retrieves relevant PubMed abstracts and generates grounded, context-a
 
 # 🚀 Usage  
 
-1️⃣ Open `MediQuest RAG with Vector Database.ipynb` in **Google Colab**.  
+1️⃣ Open `MediQuest_RAG_with_Vector_Database.ipynb` in **Google Colab**.  
 2️⃣ Enter your **Hugging Face token** when prompted.  
 3️⃣ Run all cells to initialize embeddings, build the FAISS index, and start querying the RAG system.
