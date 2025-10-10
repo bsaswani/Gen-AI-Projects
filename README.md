@@ -1,7 +1,7 @@
 # 🤖 Generative AI Projects
 
 # 🚀 Welcome to my Generative AI Repository  
-This repository is dedicated to projects built using **Large Language Models (LLMs), prompt engineering, RAG with vector databases, Agnetic AI, and Reinforcement Learning.** Each project highlights techniques such as context-aware dialogue with LLMs, task orchestration using Agnetic AI, optimized responses through prompt engineering, knowledge retrieval with vector databases, and adaptive learning via reinforcement learning.  
+This repository is dedicated to projects built using **Large Language Models (LLMs), Prompt Engineering, RAG with Vector Databases, AI Agents, and Reinforcement Learning**. Each project highlights techniques such as context-aware dialogue with LLMs, task orchestration using AI Agents, optimized responses through prompt engineering, knowledge retrieval with vector databases, and adaptive learning via reinforcement learning.  
   
 
 # 📁 Repository Structure
@@ -20,6 +20,10 @@ This repository is dedicated to projects built using **Large Language Models (LL
 
 **│   └── 📂 MediQuest RAG with Vector Database/**
 
+**├── 📂 AI Agent/**       
+
+**│   └── 📂 SmartPrep AI Agent/**
+
 **└── README.md**                                                   
 
 # 📌 What's Inside?
@@ -29,7 +33,9 @@ This repository is dedicated to projects built using **Large Language Models (LL
 
 **🔹 RAG with Vector Database → Retrieval-Augmented Generation using semantic search, embedding-based document retrieval, and context-grounded LLM responses.**
 
+**🔹 AI Agent → Interactive autonomous systems using LLM, LangChain, and Vector Database to perform reasoning, retrieval, and task-oriented dialogue.**
+
 # 📂 How to Use?
-**1️⃣ Navigate to the `LLM, Prompt Engineering and Rag with Vector Database` folder.**  
+**1️⃣ Navigate to the `LLM, Prompt Engineering, RAG with Vector Database, or AI Agent` folder.**  
 **2️⃣ Each project contains a Jupyter Notebook (`.ipynb`) and a `README.md` with dataset, explanation.**  
 **3️⃣ Run the notebook in **Google Colab** to test the project.**  
